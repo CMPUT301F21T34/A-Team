@@ -1,7 +1,7 @@
 public abstract class Shape {
 
     int x, y;
-    String color = 'magenta';
+    String color = "blue";
     Shape(){
 
 
