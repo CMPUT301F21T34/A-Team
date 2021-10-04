@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class octagon {
+public class octagon extends Shape{
+    octagon(){}
 }
